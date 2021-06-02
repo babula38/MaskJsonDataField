@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\babula.pradhan\\Desktop\\Delete\\JsonMaskingPOC\\MyPocForMasking\\JsonMasking\\JsonMasking.csproj",
+      "projectUniqueName": "C:\\Users\\babula.pradhan\\Desktop\\Delete\\JsonMaskingPOC\\MyPocForMasking\\JsonMasking\\JsonMasking.csproj",
       "projectName": "JsonMasking",
-      "projectPath": "c:\\Users\\babula.pradhan\\Desktop\\Delete\\JsonMaskingPOC\\MyPocForMasking\\JsonMasking\\JsonMasking.csproj",
+      "projectPath": "C:\\Users\\babula.pradhan\\Desktop\\Delete\\JsonMaskingPOC\\MyPocForMasking\\JsonMasking\\JsonMasking.csproj",
       "packagesPath": "C:\\Users\\babula.pradhan\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\babula.pradhan\\Desktop\\Delete\\JsonMaskingPOC\\MyPocForMasking\\JsonMasking\\obj\\",
+      "outputPath": "C:\\Users\\babula.pradhan\\Desktop\\Delete\\JsonMaskingPOC\\MyPocForMasking\\JsonMasking\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\babula.pradhan\\AppData\\Roaming\\NuGet\\NuGet.Config",

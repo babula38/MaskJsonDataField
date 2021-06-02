@@ -1,12 +1,4 @@
-c:\Users\babula.pradhan\Desktop\Delete\JsonMaskingPOC\MyPocForMasking\JsonMasking\bin\Debug\net5.0\JsonMasking.deps.json
-c:\Users\babula.pradhan\Desktop\Delete\JsonMaskingPOC\MyPocForMasking\JsonMasking\bin\Debug\net5.0\JsonMasking.dll
-c:\Users\babula.pradhan\Desktop\Delete\JsonMaskingPOC\MyPocForMasking\JsonMasking\bin\Debug\net5.0\ref\JsonMasking.dll
-c:\Users\babula.pradhan\Desktop\Delete\JsonMaskingPOC\MyPocForMasking\JsonMasking\bin\Debug\net5.0\JsonMasking.pdb
-c:\Users\babula.pradhan\Desktop\Delete\JsonMaskingPOC\MyPocForMasking\JsonMasking\obj\Debug\net5.0\JsonMasking.GeneratedMSBuildEditorConfig.editorconfig
-c:\Users\babula.pradhan\Desktop\Delete\JsonMaskingPOC\MyPocForMasking\JsonMasking\obj\Debug\net5.0\JsonMasking.AssemblyInfoInputs.cache
-c:\Users\babula.pradhan\Desktop\Delete\JsonMaskingPOC\MyPocForMasking\JsonMasking\obj\Debug\net5.0\JsonMasking.AssemblyInfo.cs
-c:\Users\babula.pradhan\Desktop\Delete\JsonMaskingPOC\MyPocForMasking\JsonMasking\obj\Debug\net5.0\JsonMasking.csproj.CoreCompileInputs.cache
-c:\Users\babula.pradhan\Desktop\Delete\JsonMaskingPOC\MyPocForMasking\JsonMasking\obj\Debug\net5.0\JsonMasking.dll
-c:\Users\babula.pradhan\Desktop\Delete\JsonMaskingPOC\MyPocForMasking\JsonMasking\obj\Debug\net5.0\ref\JsonMasking.dll
-c:\Users\babula.pradhan\Desktop\Delete\JsonMaskingPOC\MyPocForMasking\JsonMasking\obj\Debug\net5.0\JsonMasking.pdb
-C:\Users\babula.pradhan\Desktop\Delete\JsonMaskingPOC\MyPocForMasking\JsonMasking\obj\Debug\net5.0\JsonMasking.csprojAssemblyReference.cache
+C:\Users\babula.pradhan\Desktop\Delete\JsonMaskingPOC\MyPocForMasking\JsonMasking\obj\Debug\net5.0\JsonMasking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babula.pradhan\Desktop\Delete\JsonMaskingPOC\MyPocForMasking\JsonMasking\obj\Debug\net5.0\JsonMasking.AssemblyInfoInputs.cache
+C:\Users\babula.pradhan\Desktop\Delete\JsonMaskingPOC\MyPocForMasking\JsonMasking\obj\Debug\net5.0\JsonMasking.AssemblyInfo.cs
+C:\Users\babula.pradhan\Desktop\Delete\JsonMaskingPOC\MyPocForMasking\JsonMasking\obj\Debug\net5.0\JsonMasking.csproj.CoreCompileInputs.cache
